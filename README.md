@@ -1,5 +1,4 @@
 ## Abrir [PowerShell](http://www.idi.cl/powershell.html) como administrador
-pero [asdad](ms-windows-store://pdp/?ProductId=9N0DX20HK701&mode=mini)
 
 ### Instalar **WSL2**
 ```
