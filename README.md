@@ -38,7 +38,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install -y --allow -empty-checksums --ignore-checksum googlechrome winrar vscode spotify slack telegram qbittorrent firefox tableplus epicgameslauncher steam battle.net goggalaxy vlc auto-dark-mode evernote postman vmwareworkstation WhatsApp windirstat unity-hub
 ```
 
-### Instalar fuentes
+### Instalar fuentes (<kbd>Ctrl</kbd>+🖱️)
 1. [Descargar aquí](https://1drv.ms/u/s!An9eKsg-lFZRsJIzweujNblNSrMUQg?e=3K7l8C) (no descomprimir)
 2. Ejecutar esto para instalar:
 ```
